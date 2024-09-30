@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/border_text"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/divider8"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/blue" />
+
+    <TextView
+        android:id="@+id/txt_student_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="  StudentID: " />
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/blue" />
+
+    <TextView
+        android:id="@+id/txt_student_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="  Name:" />
+
+    <View
+        android:id="@+id/divider9"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/blue" />
+
+    <TextView
+        android:id="@+id/txt_grade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="  Grade:" />
+
+    <View
+        android:id="@+id/divider10"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/blue" />
+
+    <TextView
+        android:id="@+id/txt_contact_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="  Contact No.:" />
+
+    <View
+        android:id="@+id/divider11"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/blue" />
+
+    <TextView
+        android:id="@+id/txt_program"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="  Program:"
+        android:textSize="14sp" />
+
+    <View
+        android:id="@+id/divider12"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/blue" />
+
+    <TextView
+        android:id="@+id/txt_birthday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="  Birthday:"
+        android:textSize="14sp" />
+
+    <View
+        android:id="@+id/divider14"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/blue" />
+</LinearLayout>
