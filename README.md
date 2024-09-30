@@ -1,3 +1,6 @@
+### Objective
+- Create a student information system
+
 ### Members
 - Kimwel Lourence C. Beller
 - [Rehum D. Baraquil](https://github.com/SoapEater)
